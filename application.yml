@@ -1,1 +1,5 @@
 greeting: Welcome to PCF
+
+security:
+  user:
+    password: secure
